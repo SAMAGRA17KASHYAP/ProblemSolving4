@@ -1,0 +1,8 @@
+
+Z	java:S106|"9Replace this use of System.out or System.err by a logger.(Å˜õçüÿÿÿÿ8¤Ïäå•/
+Z	java:S106x"9Replace this use of System.out or System.err by a logger.(ØÎÆËüÿÿÿÿ8Ò©ßå•/
+Z	java:S106G"9Replace this use of System.out or System.err by a logger.(ÁÚ£²ıÿÿÿÿ8ÆÛ¹å•/
+Z	java:S106z"9Replace this use of System.out or System.err by a logger.(ÑÔÇÆÿÿÿÿÿ8¤Æáå•/
+U	java:S106y"9Replace this use of System.out or System.err by a logger.(ÕÔŞ»8Ò©ßå•/
+N
+java:S1172"1Remove this unused method parameter "isTerminal".(ïßù 8ñüŒå•/

@@ -1,0 +1,10 @@
+
+Z	java:S112H"FDefine and throw a dedicated exception instead of using a generic one.(£‡éG
+H
+java:S1128"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ
+G
+java:S1128"1Remove this unused import 'java.util.Comparator'.(î¹ó¹
+V	java:S125'"<This block of commented-out lines of code should be removed.(çÊÁâşÿÿÿÿ
+S	java:S106P"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ
+S	java:S106u"9Replace this use of System.out or System.err by a logger.(éÓïøÿÿÿÿ
+N	java:S106w"9Replace this use of System.out or System.err by a logger.(ğ¬úò

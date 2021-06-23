@@ -1,0 +1,11 @@
+
+1
+java:S3626&"Remove this redundant jump.(ûÁÝ…
+S	java:S106@"9Replace this use of System.out or System.err by a logger.(­–ÒÁøÿÿÿÿ
+X
+java:S1126“"AReplace this if-then-else statement by a single return statement.(à×«®
+T	java:S106¤"9Replace this use of System.out or System.err by a logger.(ùª•©ûÿÿÿÿ
+T	java:S106¥"9Replace this use of System.out or System.err by a logger.(¸áæðûÿÿÿÿ
+O	java:S106§"9Replace this use of System.out or System.err by a logger.(Õñ‚—
+T	java:S106©"9Replace this use of System.out or System.err by a logger.(ñ”Öÿÿÿÿÿÿ
+O	java:S106¬"9Replace this use of System.out or System.err by a logger.(™²“õ

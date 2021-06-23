@@ -1,0 +1,22 @@
+
+T
+java:S3516C"9Refactor this method to not always return the same value.(ÇáÛÉÿÿÿÿÿ
+Z	java:S112F"FDefine and throw a dedicated exception instead of using a generic one.(£‡éG
+O
+java:S1854&"9Remove this useless assignment to local variable "right".(®¨îê
+S
+java:S1854%"8Remove this useless assignment to local variable "left".(¸…¶¨ûÿÿÿÿ
+S	java:S106N"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ
+7
+java:S3864q"!Remove this use of "Stream.peek".(ßˆ±ö
+N	java:S106q"9Replace this use of System.out or System.err by a logger.(ßˆ±ö
+B
+java:S1612r",Replace this lambda with a method reference.(æ„§€
+N	java:S106s"9Replace this use of System.out or System.err by a logger.(ş»Ş
+S	java:S106t"9Replace this use of System.out or System.err by a logger.(éÓïøÿÿÿÿ
+N	java:S106u"9Replace this use of System.out or System.err by a logger.(ËİÙÊ
+N	java:S106x"9Replace this use of System.out or System.err by a logger.(ğ¬úò
+D
+java:S1481%")Remove this unused "left" local variable.(¸…¶¨ûÿÿÿÿ
+@
+java:S1481&"*Remove this unused "right" local variable.(®¨îê
