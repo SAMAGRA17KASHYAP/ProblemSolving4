@@ -114,6 +114,7 @@ public class RangeXOR {
                 int l=scn.nextInt();
                 int r=scn.nextInt();
                 int x=scn.nextInt();
+                11
                 System.out.println(xor.maxXor(x,xor.root, l-1, r-1));
             }
         }
