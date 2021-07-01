@@ -1,0 +1,17 @@
+
+:
+java:S1659~"Declare "c" on a separate line.(ë³ ¹øÿÿÿÿ
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8æçŽÌ£/
+J
+java:S1905,"/Remove this unnecessary cast to "LinkedList[]".(õ„´¬ùÿÿÿÿ
+J
+java:S1905Y"/Remove this unnecessary cast to "LinkedList[]".(Þ“£”ýÿÿÿÿ
+S	java:S106y"9Replace this use of System.out or System.err by a logger.(’®·ßÿÿÿÿÿ
+k
+java:S1206"PThis class overrides "equals()" and should therefore also override "hashCode()".(Ý¢êÍýÿÿÿÿ
+t	java:S115%"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(æìŠçÿÿÿÿÿ
+S	java:S106m"9Replace this use of System.out or System.err by a logger.(ªí¡ªüÿÿÿÿ
+:
+java:S1659~"Declare "b" on a separate line.(ë³ ¹øÿÿÿÿ
+S	java:S106n"9Replace this use of System.out or System.err by a logger.(ýì¹‰ùÿÿÿÿ

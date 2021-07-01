@@ -1,0 +1,17 @@
+
+Q	java:S125"<This block of commented-out lines of code should be removed.(ôùŞå
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ˆ”Šƒùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ŒıÙÜ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ˆ”Šƒùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(²çáú
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ˆ”Šƒùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ŒıÙÜ
+N	java:S106("9Replace this use of System.out or System.err by a logger.(†™ñ‹
+A
+java:S19057"&Remove this unnecessary cast to "int".(¡¶Çùÿÿÿÿ
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ
+S	java:S106B"9Replace this use of System.out or System.err by a logger.(‡€ıùÿÿÿÿ
+1
+java:S3626M"Remove this redundant jump.(ûÁİ…
+S	java:S106I"9Replace this use of System.out or System.err by a logger.(¸¾µ¤ıÿÿÿÿ
+N	java:S106L"9Replace this use of System.out or System.err by a logger.(ïÅ¥å

@@ -2,10 +2,11 @@ package com.ll.v1;
 
 import com.ll.LinkedList;
 
-import java.util.Objects;
+import java.util.*;
+import java.util.stream.Collectors;
 
 public class HashTable<K,V> {
-     class HTPair
+    class HTPair
     {
         K key;
         V value;

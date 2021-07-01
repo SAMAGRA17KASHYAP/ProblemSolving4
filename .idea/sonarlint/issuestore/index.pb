@@ -17,3 +17,14 @@ Q
 !src/main/java/com/ll/v1/Trie.java,c/4/c46ad9bbb0f9639029b235586e9c0029b88535e9
 T
 $src/main/java/com/ll/v1/v2/Trie.java,2/1/21af99fc26de9afc8d021ec27fd35750336b761c
+e
+5src/main/java/com/bm/exercise/MakeAllSubsequence.java,0/5/058e31bb96dcf133daf6f906473a2e8e39445b78
+Y
+)src/main/java/com/bm/BitManipulation.java,6/2/62d953fe8f5b68f8fba992f15be433d54759e018
+U
+%src/main/java/com/ll/v1/Exercise.java,e/7/e70503ce2f1b803a0ec285d4930717583de3c90d
+:
+
+.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+V
+&src/main/java/com/ll/v1/HashTable.java,7/4/74b0729925aa4d669c83c549240d4025885e07b0
